@@ -9,7 +9,7 @@ An elegant and simple Android app built with **Jetpack Compose** that allows use
 ✅ Clean UI built using **Jetpack Compose**  
 ✅ Read **Rich Dad Poor Dad** offline in embedded PDF  
 ✅ Zoom, scroll, and navigate PDF pages  
-✅ Night mode support (if implemented)  
+✅ Shared Preference add
 ✅ Lightweight and fast  
 ✅ Open-source and beginner-friendly
 
@@ -18,9 +18,7 @@ An elegant and simple Android app built with **Jetpack Compose** that allows use
 ## 🛠️ Tech Stack
 
 - **Kotlin**
-- **Jetpack Compose**
-- **Android ViewModel + LiveData**
-- **PDF Renderer / AndroidPdfViewer** (optional - depends on your method)
+- **Jetpack Compose** 
 - **Material3 Design**
 - **Single Activity Architecture**
 
