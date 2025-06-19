@@ -39,6 +39,13 @@ Here are some previews of the Rich Dad Poor Dad - Bangla PDF Reader app built us
 |----------------|
 | ![Drawer](https://github.com/user-attachments/assets/8988755c-6fbc-408f-880b-3ce5cf6996f4) |
 
+## 🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/db30cdf0-8ced-40d8-b768-913ff33fa86e
+
+
+
 
 
 ## 📂 Project Structure
