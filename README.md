@@ -25,16 +25,23 @@ An elegant and simple Android app built with **Jetpack Compose** that allows use
 - **Single Activity Architecture**
 
 ---
-
 ## 📷 Screenshots
 
-> 📌 Replace these with your actual screenshots
+Here are some previews of the Rich Dad Poor Dad - Bangla PDF Reader app built using Jetpack Compose:
 
-| Home Screen | PDF Viewer |
-|-------------|-------------|
-| ![Home](https://via.placeholder.com/200x400.png?text=Home+Screen) | ![PDF](https://via.placeholder.com/200x400.png?text=PDF+Viewer) |
+| 🏠 Home Screen | 📚 Chapter List |
+|----------------|------------------|
+| ![Home](https://github.com/user-attachments/assets/640b02af-17cf-491f-a453-ff736d2cfce6) | ![Chapters](https://github.com/user-attachments/assets/5d38fe93-38a0-439d-adc8-bddbb6ae5bac) |
 
----
+| 📖 Single Page Reader | 👨‍💻 Developer Info |
+|------------------------|---------------------|
+| ![Reader](https://github.com/user-attachments/assets/c28a1d8c-70b7-4004-9de1-0ef3091c555c) | ![Developer](https://github.com/user-attachments/assets/6c5c3970-81f1-4e9b-acf7-ecbb1c53d8a5) |
+
+| 📂 App Drawer |
+|----------------|
+| ![Drawer](https://github.com/user-attachments/assets/8988755c-6fbc-408f-880b-3ce5cf6996f4) |
+
+
 
 ## 📂 Project Structure
 
